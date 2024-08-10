@@ -1,0 +1,6 @@
+Flask
+requests
+pandas
+tensorflow
+numpy
+scikit-learn
