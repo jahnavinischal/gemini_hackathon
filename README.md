@@ -1,6 +1,8 @@
-# Sustainable Materials Project
+# Sustainable Materials Predictor Project
 
-This project is developed for the Gemini Hackathon, focusing on analyzing sustainable materials using the Gemini API and machine learning models.
+-This project is developed for the Gemini Hackathon, focusing on analyzing sustainable materials for different industries using the Gemini API and machine learning models.
+
+-It is still under working
 
 ## Setup Instructions
 

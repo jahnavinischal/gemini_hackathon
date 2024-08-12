@@ -1,5 +1,6 @@
-gemini_api.py
-
+api.txt
 .history/
-
+venv
+source
+**/__pycache__
 **README.md

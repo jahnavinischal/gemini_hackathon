@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = 'YOUR_API_KEY'  # Replace with your Gemini API key
+API_KEY = 'app/api.txt'  # Replace with your Gemini API key in api.txt file
 BASE_URL = 'https://gemini.google.dev/api/v1/'
 
 headers = {
